@@ -8,8 +8,8 @@ I build browser extensions, developer tools, and audit open-source projects for 
 
 | Project | Stars | PR | Description |
 |---------|-------|----|-|
-| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid?style=flat&label=&color=gray) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | Fixed block-beta column width normalization regression |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=flat&label=&color=gray) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | Fixed cookie PSL validation (RFC 6265bis) |
+| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | Fixed block-beta column width normalization regression |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | Fixed cookie PSL validation (RFC 6265bis) |
 
 #### Projects
 
@@ -47,8 +47,8 @@ I build browser extensions, developer tools, and audit open-source projects for 
 
 | 專案 | Stars | PR | 說明 |
 |------|-------|----|-|
-| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid?style=flat&label=&color=gray) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | 修復 block-beta 欄寬正規化回歸 |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=flat&label=&color=gray) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | 修復 cookie PSL 驗證 (RFC 6265bis) |
+| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | 修復 block-beta 欄寬正規化回歸 |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | 修復 cookie PSL 驗證 (RFC 6265bis) |
 
 #### 專案
 
