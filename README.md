@@ -10,6 +10,7 @@ I build browser extensions, developer tools, and audit open-source projects for 
 |---------|-------|----|-|
 | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | Fixed block-beta column width normalization regression |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | Fixed cookie PSL validation (RFC 6265bis) |
+| [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Stars](https://img.shields.io/github/stars/safishamsi/graphify) | [#204](https://github.com/safishamsi/graphify/pull/204) | Fixed Windows CJK encoding + git hook CRLF bugs; cherry-picked into [v0.4.2](https://github.com/safishamsi/graphify/releases/tag/v0.4.2) release alongside 3 other community PRs |
 
 #### Projects
 
@@ -50,6 +51,7 @@ I build browser extensions, developer tools, and audit open-source projects for 
 |------|-------|----|-|
 | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | 修復 block-beta 欄寬正規化回歸 |
 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | 修復 cookie PSL 驗證 (RFC 6265bis) |
+| [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Stars](https://img.shields.io/github/stars/safishamsi/graphify) | [#204](https://github.com/safishamsi/graphify/pull/204) | 修復 Windows CJK 編碼 + git hook CRLF bug；與其他 3 個社群 PR 一同被 cherry-pick 進 [v0.4.2](https://github.com/safishamsi/graphify/releases/tag/v0.4.2) release |
 
 #### 專案
 
