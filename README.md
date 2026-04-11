@@ -15,6 +15,7 @@ I build browser extensions, developer tools, and audit open-source projects for 
 
 | Project | Description | |
 |---------|-------------|-|
+| [**my-claude-devteam**](https://github.com/NYCU-Chung/my-claude-devteam) | An engineering team in a box for Claude Code — 12 specialized subagents + 15 automation hooks | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/my-claude-devteam) |
 | [**portal_e3_helper**](https://github.com/NYCU-Chung/portal_e3_helper) | E3 learning platform assistant — assignments, AI translation, batch download | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-e3-helper/cmagonljljocpkfojkabhiedjafamoef) |
 | [**portal_course_registration**](https://github.com/NYCU-Chung/portal_course_registration) | Course search — AI-powered queries, timetable builder, conflict detection | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-%E8%AA%B2%E7%A8%8B%E6%90%9C%E5%B0%8B%E5%8A%A9%E6%89%8B/miaebenciplpjnmbfnhibkkgfeiciijn) |
 | [**claude-line-channel**](https://github.com/NYCU-Chung/claude-line-channel) | LINE channel plugin for Claude Code | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/claude-line-channel) |
@@ -54,6 +55,8 @@ I build browser extensions, developer tools, and audit open-source projects for 
 
 | 專案 | 說明 | |
 |------|------|-|
+| [**my-claude-devteam**](https://github.com/NYCU-Chung/my-claude-devteam) | An engineering team in a box for Claude Code — 12 specialized subagents + 15 automation hooks | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/my-claude-devteam) |
+| [**my-claude-devteam**](https://github.com/NYCU-Chung/my-claude-devteam) | Claude Code 的工程團隊包 — 12 個專職 subagents + 15 個自動化 hooks | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/my-claude-devteam) |
 | [**portal_e3_helper**](https://github.com/NYCU-Chung/portal_e3_helper) | E3 學習平台助手 — 作業倒數、AI 翻譯、批次下載 | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-已上架-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-e3-helper/cmagonljljocpkfojkabhiedjafamoef) |
 | [**portal_course_registration**](https://github.com/NYCU-Chung/portal_course_registration) | 選課助手 — AI 搜尋、課表製作、衝堂檢測 | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-已上架-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-%E8%AA%B2%E7%A8%8B%E6%90%9C%E5%B0%8B%E5%8A%A9%E6%89%8B/miaebenciplpjnmbfnhibkkgfeiciijn) |
 | [**claude-line-channel**](https://github.com/NYCU-Chung/claude-line-channel) | Claude Code 的 LINE 頻道插件 | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/claude-line-channel) |
