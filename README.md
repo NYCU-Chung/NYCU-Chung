@@ -1,26 +1,26 @@
 ### Hi, I'm Bing-Jyun Chung
 
-CS student at NYCU (Arete Honors Program). Founder of [Iceberg College](https://icebergcollege.com/).
+CS student at NYCU (Arete Honors Program) and founder of [Iceberg College](https://icebergcollege.com/).
 
-I build browser extensions, developer tools, and audit open-source projects for security. Competitive programming background — TOPC Silver, APCS 400/400.
+I build browser extensions and developer tools, and contribute security and reliability fixes to open-source projects. I also have a competitive programming background, including a TOPC Silver and a full score of 400/400 in APCS Implementation.
 
 #### Open Source Contributions
 
-| Project | Stars | PR | Description |
-|---------|-------|----|-|
-| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | Fixed block-beta column width normalization regression |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | Fixed cookie PSL validation (RFC 6265bis) |
-| [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Stars](https://img.shields.io/github/stars/safishamsi/graphify) | [#204](https://github.com/safishamsi/graphify/pull/204) | Fixed Windows CJK encoding + git hook CRLF bugs; cherry-picked into [v0.4.2](https://github.com/safishamsi/graphify/releases/tag/v0.4.2) release alongside 3 other community PRs |
+| Project | Stars | PR | Description | Note |
+|---------|-------|----|-------------|------|
+| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | Fixed a regression in block-beta column width normalization | Merged |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | Added public suffix validation for `Set-Cookie` domain handling per RFC 6265bis | Merged |
+| [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Stars](https://img.shields.io/github/stars/safishamsi/graphify) | [#204](https://github.com/safishamsi/graphify/pull/204) | Fixed UTF-8 text encoding and LF newline handling for Windows file and git hook writes | Included in [v0.4.2](https://github.com/safishamsi/graphify/releases/tag/v0.4.2) via cherry-pick |
 
 #### Projects
 
 | Project | Description | |
 |---------|-------------|-|
-| [**my-claude-devteam**](https://github.com/NYCU-Chung/my-claude-devteam) | An engineering team in a box for Claude Code — 12 specialized subagents + 15 automation hooks | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/my-claude-devteam) |
-| [**claude-line-channel**](https://github.com/NYCU-Chung/claude-line-channel) | LINE channel plugin for Claude Code | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/claude-line-channel) |
-| [**portal_e3_helper**](https://github.com/NYCU-Chung/portal_e3_helper) | E3 learning platform assistant — assignments, AI translation, batch download | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-e3-helper/cmagonljljocpkfojkabhiedjafamoef) |
-| [**portal_course_registration**](https://github.com/NYCU-Chung/portal_course_registration) | Course search — AI-powered queries, timetable builder, conflict detection | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-%E8%AA%B2%E7%A8%8B%E6%90%9C%E5%B0%8B%E5%8A%A9%E6%89%8B/miaebenciplpjnmbfnhibkkgfeiciijn) |
-| [**google-flights-search**](https://github.com/NYCU-Chung/google-flights-search) | Google Flights client for small airports and regional carriers | |
+| [**my-claude-devteam**](https://github.com/NYCU-Chung/my-claude-devteam) | An all-in-one engineering team for Claude Code, featuring 12 specialized subagents and 15 automation hooks | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/my-claude-devteam) |
+| [**claude-line-channel**](https://github.com/NYCU-Chung/claude-line-channel) | A LINE channel plugin for Claude Code | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/claude-line-channel) |
+| [**portal_e3_helper**](https://github.com/NYCU-Chung/portal_e3_helper) | An assistant for the NYCU E3 learning platform, with assignment tracking, AI translation, and batch downloads | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-e3-helper/cmagonljljocpkfojkabhiedjafamoef) |
+| [**portal_course_registration**](https://github.com/NYCU-Chung/portal_course_registration) | A course search assistant with AI-powered queries, timetable building, and conflict detection | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-%E8%AA%B2%E7%A8%8B%E6%90%9C%E5%B0%8B%E5%8A%A9%E6%89%8B/miaebenciplpjnmbfnhibkkgfeiciijn) |
+| [**google-flights-search**](https://github.com/NYCU-Chung/google-flights-search) | A Google Flights client for small airports and regional carriers | |
 
 <details>
 <summary><b>Achievements</b></summary>
@@ -41,30 +41,30 @@ I build browser extensions, developer tools, and audit open-source projects for 
 
 ### 嗨，我是鍾秉均
 
-陽明交通大學百川學士學位學程（Arete Honors Program），主修資工。[冰山程式教育學院](https://icebergcollege.com/)創辦人。
+我就讀陽明交通大學百川學士學位學程（Arete Honors Program），主修資工，也是 [Iceberg College](https://icebergcollege.com/) 的創辦人。
 
-開發瀏覽器擴充功能和開發者工具，也審查開源專案的安全問題並提交修復。競技程式設計背景 — TOPC 銀牌、APCS 400/400。
+我主要開發瀏覽器擴充套件與開發者工具，也會為開源專案修正安全性與穩定性問題。除此之外，我也有競程背景，曾獲 TOPC Silver，並在 APCS 實作題拿到滿分 400/400。
 
 #### 開源貢獻
 
-| 專案 | Stars | PR | 說明 |
-|------|-------|----|-|
-| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | 修復 block-beta 欄寬正規化回歸 |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | 修復 cookie PSL 驗證 (RFC 6265bis) |
-| [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Stars](https://img.shields.io/github/stars/safishamsi/graphify) | [#204](https://github.com/safishamsi/graphify/pull/204) | 修復 Windows CJK 編碼 + git hook CRLF bug；與其他 3 個社群 PR 一同被 cherry-pick 進 [v0.4.2](https://github.com/safishamsi/graphify/releases/tag/v0.4.2) release |
+| 專案 | Stars | PR | 說明 | 備註 |
+|------|-------|----|------|------|
+| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | 修正 block-beta 圖表欄寬正規化的回歸問題 | 已合併 |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | 依 RFC 6265bis 為 `Set-Cookie` 的 domain 驗證邏輯補上 public suffix 檢查 | 已合併 |
+| [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Stars](https://img.shields.io/github/stars/safishamsi/graphify) | [#204](https://github.com/safishamsi/graphify/pull/204) | 修正 Windows 環境下 UTF-8 文字編碼與 git hook LF 換行寫入問題 | 已透過 cherry-pick 收錄於 [v0.4.2](https://github.com/safishamsi/graphify/releases/tag/v0.4.2) |
 
-#### 專案
+#### 個人專案
 
 | 專案 | 說明 | |
 |------|------|-|
-| [**my-claude-devteam**](https://github.com/NYCU-Chung/my-claude-devteam) | Claude Code 的工程團隊包 — 12 個專職 subagents + 15 個自動化 hooks | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/my-claude-devteam) |
-| [**claude-line-channel**](https://github.com/NYCU-Chung/claude-line-channel) | Claude Code 的 LINE 頻道插件 | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/claude-line-channel) |
-| [**portal_e3_helper**](https://github.com/NYCU-Chung/portal_e3_helper) | E3 學習平台助手 — 作業倒數、AI 翻譯、批次下載 | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-已上架-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-e3-helper/cmagonljljocpkfojkabhiedjafamoef) |
-| [**portal_course_registration**](https://github.com/NYCU-Chung/portal_course_registration) | 選課助手 — AI 搜尋、課表製作、衝堂檢測 | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-已上架-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-%E8%AA%B2%E7%A8%8B%E6%90%9C%E5%B0%8B%E5%8A%A9%E6%89%8B/miaebenciplpjnmbfnhibkkgfeiciijn) |
-| [**google-flights-search**](https://github.com/NYCU-Chung/google-flights-search) | Google Flights 客戶端，支援小型機場和區域航空 | |
+| [**my-claude-devteam**](https://github.com/NYCU-Chung/my-claude-devteam) | 為 Claude Code 打造的工程團隊工具箱，內含 12 個專門 subagents 與 15 個自動化 hooks | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/my-claude-devteam) |
+| [**claude-line-channel**](https://github.com/NYCU-Chung/claude-line-channel) | Claude Code 的 LINE channel 外掛 | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/claude-line-channel) |
+| [**portal_e3_helper**](https://github.com/NYCU-Chung/portal_e3_helper) | 陽明交大 E3 學習平台輔助工具，支援作業追蹤、AI 翻譯與批次下載 | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-e3-helper/cmagonljljocpkfojkabhiedjafamoef) |
+| [**portal_course_registration**](https://github.com/NYCU-Chung/portal_course_registration) | 選課搜尋輔助工具，支援 AI 查詢、課表建構與衝堂檢查 | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-%E8%AA%B2%E7%A8%8B%E6%90%9C%E5%B0%8B%E5%8A%A9%E6%89%8B/miaebenciplpjnmbfnhibkkgfeiciijn) |
+| [**google-flights-search**](https://github.com/NYCU-Chung/google-flights-search) | 提供給小型機場與區域航空公司的 Google Flights 查詢客戶端 | |
 
 <details>
-<summary><b>資訊相關經歷</b></summary>
+<summary><b>經歷與獎項</b></summary>
 
 - 2025 AI 應用創新菁英培育計畫決賽 銀獎
 - 2025 HP Codewars Taiwan 全國大學校園程式爭霸賽 大學組 第十四名
