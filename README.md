@@ -6,18 +6,18 @@ I build browser extensions and developer tools, and contribute security and reli
 
 #### Open Source Contributions
 
-| Project | Stats | PR | Description | Note |
+| Project | Stars | PR | Description | Note |
 |---------|-------|----|-------------|------|
-| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/mermaid-js/mermaid?cacheSeconds=3600) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | Fixed a regression in block-beta column width normalization | Merged directly by Mermaid creator `knsv` |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/lightpanda-io/browser?cacheSeconds=3600) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | Added public suffix validation for `Set-Cookie` domain handling per RFC 6265bis | Merged directly by core Lightpanda engineer `karlseguin` |
-| [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Stars](https://img.shields.io/github/stars/safishamsi/graphify?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/safishamsi/graphify?cacheSeconds=3600) | [#204](https://github.com/safishamsi/graphify/pull/204) | Fixed UTF-8 text encoding and LF newline handling for Windows file and git hook writes | Included in [v0.4.2](https://github.com/safishamsi/graphify/releases/tag/v0.4.2) via cherry-pick |
+| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid?cacheSeconds=3600) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | Fixed a regression in block-beta column width normalization | Merged directly by Mermaid creator `knsv` |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser?cacheSeconds=3600) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | Added public suffix validation for `Set-Cookie` domain handling per RFC 6265bis | Merged directly by core Lightpanda engineer `karlseguin` |
+| [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Stars](https://img.shields.io/github/stars/safishamsi/graphify?cacheSeconds=3600) | [#204](https://github.com/safishamsi/graphify/pull/204) | Fixed UTF-8 text encoding and LF newline handling for Windows file and git hook writes | Included in [v0.4.2](https://github.com/safishamsi/graphify/releases/tag/v0.4.2) via cherry-pick |
 
 #### Projects
 
 | Project | Description | Badge |
 |---------|-------------|-------|
-| [**my-claude-devteam**](https://github.com/NYCU-Chung/my-claude-devteam) | An all-in-one engineering team for Claude Code, featuring 12 specialized subagents and 15 automation hooks | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/my-claude-devteam?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/my-claude-devteam?cacheSeconds=3600) |
-| [**claude-line-channel**](https://github.com/NYCU-Chung/claude-line-channel) | A LINE channel plugin for Claude Code | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/claude-line-channel?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/claude-line-channel?cacheSeconds=3600) |
+| [**my-claude-devteam**](https://github.com/NYCU-Chung/my-claude-devteam) | An all-in-one engineering team for Claude Code, featuring 12 specialized subagents and 15 automation hooks | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/my-claude-devteam?cacheSeconds=3600)&nbsp;![Forks](https://img.shields.io/github/forks/NYCU-Chung/my-claude-devteam?cacheSeconds=3600) |
+| [**claude-line-channel**](https://github.com/NYCU-Chung/claude-line-channel) | A LINE channel plugin for Claude Code | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/claude-line-channel?cacheSeconds=3600)&nbsp;![Forks](https://img.shields.io/github/forks/NYCU-Chung/claude-line-channel?cacheSeconds=3600) |
 | [**portal_e3_helper**](https://github.com/NYCU-Chung/portal_e3_helper) | An assistant for the NYCU E3 learning platform, with assignment tracking, AI translation, and batch downloads | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-e3-helper/cmagonljljocpkfojkabhiedjafamoef) |
 | [**portal_course_registration**](https://github.com/NYCU-Chung/portal_course_registration) | A course search assistant with AI-powered queries, timetable building, and conflict detection | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-%E8%AA%B2%E7%A8%8B%E6%90%9C%E5%B0%8B%E5%8A%A9%E6%89%8B/miaebenciplpjnmbfnhibkkgfeiciijn) |
 | [**google-flights-search**](https://github.com/NYCU-Chung/google-flights-search) | A Google Flights client for small airports and regional carriers | |
@@ -47,18 +47,18 @@ I build browser extensions and developer tools, and contribute security and reli
 
 #### 開源貢獻
 
-| 專案 | Stats | PR | 說明 | 備註 |
+| 專案 | Stars | PR | 說明 | 備註 |
 |------|-------|----|------|------|
-| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/mermaid-js/mermaid?cacheSeconds=3600) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | 修正 block-beta 圖表欄寬正規化的回歸問題 | 由 Mermaid 創作者 `knsv` 直接合併 |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/lightpanda-io/browser?cacheSeconds=3600) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | 依 RFC 6265bis 為 `Set-Cookie` 的 domain 驗證邏輯補上 public suffix 檢查 | 由 Lightpanda 核心工程師 `karlseguin` 直接合併 |
-| [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Stars](https://img.shields.io/github/stars/safishamsi/graphify?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/safishamsi/graphify?cacheSeconds=3600) | [#204](https://github.com/safishamsi/graphify/pull/204) | 修正 Windows 環境下 UTF-8 文字編碼與 git hook LF 換行寫入問題 | 由 repo owner `safishamsi` 採用，並收錄於 [v0.4.2](https://github.com/safishamsi/graphify/releases/tag/v0.4.2) |
+| [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid?cacheSeconds=3600) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | 修正 block-beta 圖表欄寬正規化的回歸問題 | 由 Mermaid 創作者 `knsv` 直接合併 |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser?cacheSeconds=3600) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | 依 RFC 6265bis 為 `Set-Cookie` 的 domain 驗證邏輯補上 public suffix 檢查 | 由 Lightpanda 核心工程師 `karlseguin` 直接合併 |
+| [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Stars](https://img.shields.io/github/stars/safishamsi/graphify?cacheSeconds=3600) | [#204](https://github.com/safishamsi/graphify/pull/204) | 修正 Windows 環境下 UTF-8 文字編碼與 git hook LF 換行寫入問題 | 由 repo owner `safishamsi` 採用，並收錄於 [v0.4.2](https://github.com/safishamsi/graphify/releases/tag/v0.4.2) |
 
 #### 個人專案
 
 | 專案 | 說明 | 徽章 |
 |------|------|------|
-| [**my-claude-devteam**](https://github.com/NYCU-Chung/my-claude-devteam) | 為 Claude Code 打造的工程團隊工具箱，內含 12 個專門 subagents 與 15 個自動化 hooks | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/my-claude-devteam?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/my-claude-devteam?cacheSeconds=3600) |
-| [**claude-line-channel**](https://github.com/NYCU-Chung/claude-line-channel) | Claude Code 的 LINE channel 外掛 | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/claude-line-channel?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/claude-line-channel?cacheSeconds=3600) |
+| [**my-claude-devteam**](https://github.com/NYCU-Chung/my-claude-devteam) | 為 Claude Code 打造的工程團隊工具箱，內含 12 個專門 subagents 與 15 個自動化 hooks | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/my-claude-devteam?cacheSeconds=3600)&nbsp;![Forks](https://img.shields.io/github/forks/NYCU-Chung/my-claude-devteam?cacheSeconds=3600) |
+| [**claude-line-channel**](https://github.com/NYCU-Chung/claude-line-channel) | Claude Code 的 LINE channel 外掛 | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/claude-line-channel?cacheSeconds=3600)&nbsp;![Forks](https://img.shields.io/github/forks/NYCU-Chung/claude-line-channel?cacheSeconds=3600) |
 | [**portal_e3_helper**](https://github.com/NYCU-Chung/portal_e3_helper) | 陽明交大 E3 學習平台輔助工具，支援作業追蹤、AI 翻譯與批次下載 | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-e3-helper/cmagonljljocpkfojkabhiedjafamoef) |
 | [**portal_course_registration**](https://github.com/NYCU-Chung/portal_course_registration) | 選課搜尋輔助工具，支援 AI 查詢、課表建構與衝堂檢查 | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-%E8%AA%B2%E7%A8%8B%E6%90%9C%E5%B0%8B%E5%8A%A9%E6%89%8B/miaebenciplpjnmbfnhibkkgfeiciijn) |
 | [**google-flights-search**](https://github.com/NYCU-Chung/google-flights-search) | 提供給小型機場與區域航空公司的 Google Flights 查詢客戶端 | |
