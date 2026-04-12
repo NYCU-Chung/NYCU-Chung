@@ -14,13 +14,13 @@ I build browser extensions and developer tools, and contribute security and reli
 
 #### Projects
 
-| Project | Description | Stats | Links |
-|---------|-------------|-------|-------|
-| [**my-claude-devteam**](https://github.com/NYCU-Chung/my-claude-devteam) | An all-in-one engineering team for Claude Code, featuring 12 specialized subagents and 15 automation hooks | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/my-claude-devteam?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/my-claude-devteam?cacheSeconds=3600) | |
-| [**claude-line-channel**](https://github.com/NYCU-Chung/claude-line-channel) | A LINE channel plugin for Claude Code | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/claude-line-channel?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/claude-line-channel?cacheSeconds=3600) | |
-| [**portal_e3_helper**](https://github.com/NYCU-Chung/portal_e3_helper) | An assistant for the NYCU E3 learning platform, with assignment tracking, AI translation, and batch downloads | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/portal_e3_helper?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/portal_e3_helper?cacheSeconds=3600) | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-e3-helper/cmagonljljocpkfojkabhiedjafamoef) |
-| [**portal_course_registration**](https://github.com/NYCU-Chung/portal_course_registration) | A course search assistant with AI-powered queries, timetable building, and conflict detection | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/portal_course_registration?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/portal_course_registration?cacheSeconds=3600) | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-%E8%AA%B2%E7%A8%8B%E6%90%9C%E5%B0%8B%E5%8A%A9%E6%89%8B/miaebenciplpjnmbfnhibkkgfeiciijn) |
-| [**google-flights-search**](https://github.com/NYCU-Chung/google-flights-search) | A Google Flights client for small airports and regional carriers | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/google-flights-search?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/google-flights-search?cacheSeconds=3600) | |
+| Project | Description | Badge |
+|---------|-------------|-------|
+| [**my-claude-devteam**](https://github.com/NYCU-Chung/my-claude-devteam) | An all-in-one engineering team for Claude Code, featuring 12 specialized subagents and 15 automation hooks | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/my-claude-devteam?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/my-claude-devteam?cacheSeconds=3600) |
+| [**claude-line-channel**](https://github.com/NYCU-Chung/claude-line-channel) | A LINE channel plugin for Claude Code | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/claude-line-channel?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/claude-line-channel?cacheSeconds=3600) |
+| [**portal_e3_helper**](https://github.com/NYCU-Chung/portal_e3_helper) | An assistant for the NYCU E3 learning platform, with assignment tracking, AI translation, and batch downloads | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-e3-helper/cmagonljljocpkfojkabhiedjafamoef) |
+| [**portal_course_registration**](https://github.com/NYCU-Chung/portal_course_registration) | A course search assistant with AI-powered queries, timetable building, and conflict detection | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-%E8%AA%B2%E7%A8%8B%E6%90%9C%E5%B0%8B%E5%8A%A9%E6%89%8B/miaebenciplpjnmbfnhibkkgfeiciijn) |
+| [**google-flights-search**](https://github.com/NYCU-Chung/google-flights-search) | A Google Flights client for small airports and regional carriers | |
 
 <details>
 <summary><b>Achievements</b></summary>
@@ -55,13 +55,13 @@ I build browser extensions and developer tools, and contribute security and reli
 
 #### 個人專案
 
-| 專案 | 說明 | Stats | 連結 |
-|------|------|-------|------|
-| [**my-claude-devteam**](https://github.com/NYCU-Chung/my-claude-devteam) | 為 Claude Code 打造的工程團隊工具箱，內含 12 個專門 subagents 與 15 個自動化 hooks | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/my-claude-devteam?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/my-claude-devteam?cacheSeconds=3600) | |
-| [**claude-line-channel**](https://github.com/NYCU-Chung/claude-line-channel) | Claude Code 的 LINE channel 外掛 | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/claude-line-channel?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/claude-line-channel?cacheSeconds=3600) | |
-| [**portal_e3_helper**](https://github.com/NYCU-Chung/portal_e3_helper) | 陽明交大 E3 學習平台輔助工具，支援作業追蹤、AI 翻譯與批次下載 | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/portal_e3_helper?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/portal_e3_helper?cacheSeconds=3600) | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-e3-helper/cmagonljljocpkfojkabhiedjafamoef) |
-| [**portal_course_registration**](https://github.com/NYCU-Chung/portal_course_registration) | 選課搜尋輔助工具，支援 AI 查詢、課表建構與衝堂檢查 | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/portal_course_registration?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/portal_course_registration?cacheSeconds=3600) | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-%E8%AA%B2%E7%A8%8B%E6%90%9C%E5%B0%8B%E5%8A%A9%E6%89%8B/miaebenciplpjnmbfnhibkkgfeiciijn) |
-| [**google-flights-search**](https://github.com/NYCU-Chung/google-flights-search) | 提供給小型機場與區域航空公司的 Google Flights 查詢客戶端 | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/google-flights-search?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/google-flights-search?cacheSeconds=3600) | |
+| 專案 | 說明 | 徽章 |
+|------|------|------|
+| [**my-claude-devteam**](https://github.com/NYCU-Chung/my-claude-devteam) | 為 Claude Code 打造的工程團隊工具箱，內含 12 個專門 subagents 與 15 個自動化 hooks | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/my-claude-devteam?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/my-claude-devteam?cacheSeconds=3600) |
+| [**claude-line-channel**](https://github.com/NYCU-Chung/claude-line-channel) | Claude Code 的 LINE channel 外掛 | ![Stars](https://img.shields.io/github/stars/NYCU-Chung/claude-line-channel?cacheSeconds=3600) ![Forks](https://img.shields.io/github/forks/NYCU-Chung/claude-line-channel?cacheSeconds=3600) |
+| [**portal_e3_helper**](https://github.com/NYCU-Chung/portal_e3_helper) | 陽明交大 E3 學習平台輔助工具，支援作業追蹤、AI 翻譯與批次下載 | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-e3-helper/cmagonljljocpkfojkabhiedjafamoef) |
+| [**portal_course_registration**](https://github.com/NYCU-Chung/portal_course_registration) | 選課搜尋輔助工具，支援 AI 查詢、課表建構與衝堂檢查 | [![Chrome Web Store](https://img.shields.io/badge/Web_Store-published-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/nycu-%E8%AA%B2%E7%A8%8B%E6%90%9C%E5%B0%8B%E5%8A%A9%E6%89%8B/miaebenciplpjnmbfnhibkkgfeiciijn) |
+| [**google-flights-search**](https://github.com/NYCU-Chung/google-flights-search) | 提供給小型機場與區域航空公司的 Google Flights 查詢客戶端 | |
 
 <details>
 <summary><b>經歷與獎項</b></summary>
