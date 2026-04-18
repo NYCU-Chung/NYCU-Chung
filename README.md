@@ -9,8 +9,8 @@ I build browser extensions and developer tools, and contribute security and reli
 | Project | Stars | PR | Description | Note |
 |---------|-------|----|-------------|------|
 | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid?style=plastic&label=%E2%AD%90&cacheSeconds=3600) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | Fixed a regression in block-beta column width normalization | Merged directly by Mermaid creator `knsv` |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=plastic&label=%E2%AD%90&cacheSeconds=3600&labelColor=555&color=007ec6) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | Added public suffix validation for `Set-Cookie` domain handling per RFC 6265bis | Merged directly by core Lightpanda engineer `karlseguin` |
 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Stars](https://img.shields.io/github/stars/safishamsi/graphify?style=plastic&label=%E2%AD%90&cacheSeconds=3600) | [#204](https://github.com/safishamsi/graphify/pull/204) | Fixed UTF-8 text encoding and LF newline handling for Windows file and git hook writes | Included in [v0.4.2](https://github.com/safishamsi/graphify/releases/tag/v0.4.2) via cherry-pick |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=plastic&label=%E2%AD%90&cacheSeconds=3600) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | Added public suffix validation for `Set-Cookie` domain handling per RFC 6265bis | Merged directly by core Lightpanda engineer `karlseguin` |
 
 #### Selected Projects
 
@@ -51,8 +51,8 @@ I build browser extensions and developer tools, and contribute security and reli
 | 專案 | Stars | PR | 說明 | 備註 |
 |------|-------|----|------|------|
 | [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) | ![Stars](https://img.shields.io/github/stars/mermaid-js/mermaid?style=plastic&label=%E2%AD%90&cacheSeconds=3600) | [#7589](https://github.com/mermaid-js/mermaid/pull/7589) | 修正 block-beta 圖表欄寬正規化的回歸問題 | 由 Mermaid 創作者 `knsv` 直接合併 |
-| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=plastic&label=%E2%AD%90&cacheSeconds=3600&labelColor=555&color=007ec6) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | 依 RFC 6265bis 為 `Set-Cookie` 的 domain 驗證邏輯補上 public suffix 檢查 | 由 Lightpanda 核心工程師 `karlseguin` 直接合併 |
 | [safishamsi/graphify](https://github.com/safishamsi/graphify) | ![Stars](https://img.shields.io/github/stars/safishamsi/graphify?style=plastic&label=%E2%AD%90&cacheSeconds=3600) | [#204](https://github.com/safishamsi/graphify/pull/204) | 修正 Windows 環境下 UTF-8 文字編碼與 git hook LF 換行寫入問題 | 經 repo owner `safishamsi` 採用，並收錄於 [v0.4.2](https://github.com/safishamsi/graphify/releases/tag/v0.4.2) |
+| [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | ![Stars](https://img.shields.io/github/stars/lightpanda-io/browser?style=plastic&label=%E2%AD%90&cacheSeconds=3600) | [#2091](https://github.com/lightpanda-io/browser/pull/2091) | 依 RFC 6265bis 為 `Set-Cookie` 的 domain 驗證邏輯補上 public suffix 檢查 | 由 Lightpanda 核心工程師 `karlseguin` 直接合併 |
 
 #### 精選專案
 
