@@ -2,7 +2,9 @@
 
 CS student at NYCU (Arete Honors Program) and Co-founder & CEO of [Iceberg College](https://icebergcollege.com/).
 
-I'm strong at full-stack development, from browser extensions and developer tools to production web platforms and backend systems, with solid multi-language ability and particular fluency in C++, Python, and Java. I'm currently doing EDA-related research at NYCU, and I contribute security and reliability fixes to open-source projects. I also have a competitive programming background, including a TOPC Silver and a full score of 400/400 in APCS Implementation.
+I'm strong at full-stack development, from browser extensions and developer tools to production web platforms and backend systems, with solid multi-language ability and particular fluency in C++, Python, and Java.
+
+I'm currently doing EDA-related research at NYCU, and I contribute security and reliability fixes to open-source projects. I also have a competitive programming background, including a TOPC Silver and a full score of 400/400 in APCS Implementation.
 
 #### Open Source Contributions
 
@@ -45,7 +47,9 @@ I'm strong at full-stack development, from browser extensions and developer tool
 
 我就讀陽明交通大學百川學士學位學程（Arete Honors Program），主修資工，也是 [冰山程式教育學院](https://icebergcollege.com/) 的 Co-founder & CEO。
 
-我善於做全端開發，從瀏覽器擴充、開發者工具到 production web 平台和後端系統，並具備多語言能力，尤其精熟 C++、Python、Java 等。目前在陽明交大做 EDA 相關研究，並為開源專案修正安全性與穩定性問題。此外我也有競賽程式背景，曾獲 TOPC Silver，並在 APCS 拿到實作滿分 400/400。
+我善於做全端開發，從瀏覽器擴充、開發者工具到 production web 平台和後端系統，並具備多語言能力，尤其精熟 C++、Python、Java 等。
+
+目前在陽明交大做 EDA 相關研究，並為開源專案修正安全性與穩定性問題。此外我也有競賽程式背景，曾獲 TOPC Silver，並在 APCS 拿到實作滿分 400/400。
 
 #### 開源貢獻
 
